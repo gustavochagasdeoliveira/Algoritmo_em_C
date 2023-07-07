@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1687651490 source:c:\users\gusta\onedrive\documentos\introdução programação\prova final\provafinal\estoque.c
+	<stdio.h>
+	<stdlib.h>
+
+1584205420 source:c:\users\gusta\onedrive\documentos\introdução programação\prova final\provafinal\main.c
+	<stdio.h>
+	<stdlib.h>
+
